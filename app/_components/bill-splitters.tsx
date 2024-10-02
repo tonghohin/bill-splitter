@@ -106,7 +106,7 @@ export function BillSplitter() {
         <div className="container mx-auto px-4 py-8 max-w-md">
             <Card className="w-full">
                 <CardHeader className="pb-2">
-                    <CardTitle className="text-xl sm:text-2xl font-bold">Bill Splitter</CardTitle>
+                    <CardTitle className="text-xl sm:text-2xl font-bold">Just Split It</CardTitle>
                 </CardHeader>
                 <CardContent>
                     <div className="mb-6 space-y-4">

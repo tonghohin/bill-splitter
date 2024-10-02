@@ -1,6 +1,6 @@
-# Bill Splitter
+# Just Split It
 
-**Bill Splitter** is a simple app to help groups split bills, especially in situations where different people contribute varying amounts, like barbecues, dinners, or group outings. With this app, you can easily calculate who owes whom and ensure everyone pays their fair share.
+**Just Split It** is a simple app to help groups split bills, especially in situations where different people contribute varying amounts, like barbecues, dinners, or group outings. With this app, you can easily calculate who owes whom and ensure everyone pays their fair share.
 
 ## Features
 
