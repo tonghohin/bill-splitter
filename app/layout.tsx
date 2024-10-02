@@ -14,7 +14,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-    title: "Bill Splitter",
+    title: "Just Split It",
     description: "Split bills with your friends"
 };
 
