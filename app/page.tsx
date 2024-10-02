@@ -1,4 +1,4 @@
-import { BillSplitter } from "./_components/bill-splitters";
+import { BillSplitter } from "./_components/bill-splitter";
 
 export default function Home() {
     return <BillSplitter />;
